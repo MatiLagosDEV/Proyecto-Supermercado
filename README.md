@@ -9,7 +9,7 @@ Aplicación orientada a **Android y iOS** para comparar precios de supermercados
 | Frontend móvil        | React Native (iOS + Android)                  |
 | Backend / API         | Python + FastAPI                               |
 | Scraping              | Python (Scrapy, BeautifulSoup, Playwright)    |
-| Base de datos         | PostgreSQL o MongoDB                           |
+| Base de datos         | PostgreSQL                          |
 | Infraestructura       | AWS / Heroku / DigitalOcean + S3 + Cron/Celery|
 
 ## Descripción
